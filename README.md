@@ -1,5 +1,5 @@
 # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is **Hendika Septio Afidin** and I like to learn about web developer. I'm from Indonesia, live in Pemalang.
+My name is **Hendika Septio Afidin** and I like to learn about web developer. I'm from Indonesia, live in Pemalang, Central Java 
 
 [![Facebook](https://img.shields.io/badge/Facebook-%234267B2.svg?&style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/kandangscript)
 
