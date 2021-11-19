@@ -1,3 +1,4 @@
+Tetap Rebahan dan selalu ngoding </>
 - 👋 Hi, I’m Hendika Septio Afitdin
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning javascript
