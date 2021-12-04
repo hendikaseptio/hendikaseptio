@@ -9,6 +9,18 @@
 }
 .bg-theme {
     background-color: var(--theme);
+    color: #fff;
+}
+.btn-theme {
+    background-color: var(--theme);
+    color: #fff;
+    border: color: var(--theme);
+}
+.btn-theme:hover {
+    background-color: var(--bs-blue);
+}
+.btn-theme:focus {
+    border-color: var(--theme);
 }
 .card {
     border-radius: 10px;
