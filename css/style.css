@@ -9,6 +9,20 @@
 }
 .bg-theme {
     background-color: var(--theme);
+    color: #fff;
+}
+.btn-theme {
+   background-color: var(--theme);
+   border-color: var(--theme);
+}
+.btn-check:focus+.btn-primary, .btn-primary:focus {
+    color: #fff;
+    background-color: #0b5ed7;
+    border-color: #0a58ca;
+    box-shadow: 0 0 0 0.25rem rgb(49 132 253 / 50%);
+}
+.btn-theme:focus {
+    border-color: var(--theme);
 }
 .card {
     border-radius: 0 0 10px 10px;
