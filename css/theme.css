@@ -53,6 +53,9 @@ img.object-fit {
 .navbar-nav .nav-link.active {
 	color: #108a9a !important;
 }
+.border-theme {
+	border-color: var(--theme) !important;
+}
 
 
 #Beranda {
